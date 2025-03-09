@@ -1,5 +1,14 @@
 # COVID-19-Data-Analysis-Visualization
 
+## Dashboard
+<img src="https://github.com/meenaavalu/COVID-19-Data-Analysis-Visualization/blob/main/_COVID-19%20Analytics%20Dashboard_%20Spread%20%26%20Severity.png" width="500"> <img src="https://github.com/meenaavalu/COVID-19-Data-Analysis-Visualization/blob/main/Dashboard%202.png" width="500">
+
+## Tableau Public Link
+
+[COVID-19 Analytics Dashboard: Spread & Severity](https://public.tableau.com/app/profile/meenaa.raviselvam/viz/Covid_EDA_17415467240330/COVID-19AnalyticsDashboardSpreadSeverity)
+
+[COVID-19 Global Impact Tracker](https://public.tableau.com/app/profile/meenaa.raviselvam/viz/Covid_EDA_17415467240330/COVID-19GlobalImpactTracker?publish=yes)
+
 ## Overview
 This project provides an in-depth analysis of COVID-19 trends using SQL and Tableau. It examines infection rates, mortality trends, vaccination progress, and the role of healthcare infrastructure, leveraging data from Our World in Data.
 
@@ -100,9 +109,6 @@ Developed an interactive Tableau dashboard with:
 ✅ GDP per capita influenced access to vaccinations and healthcare infrastructure.
 ✅ Forecasting provided a clearer picture of future COVID-19 trends.
 
-## Technologies Used
-
-* SQL (SSMS) for data extraction and transformation
 
 * Tableau for visualization and dashboarding
 
